@@ -1,0 +1,7 @@
+tempfile.txt
+*.tar
+*.zip
+logs/*.log
+logs/*.log.[0-9]
+
+
